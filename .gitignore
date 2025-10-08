@@ -27,3 +27,23 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+
+### JetBrains Rider ###
+.idea/
+
+### VS Code ###
+.vscode/
+
+### Eclipse ###
+.metadata/
+.recommenders/
+
+### Общие IDE файлы ###
+*.swp
+*.swo
